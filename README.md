@@ -1,3 +1,5 @@
 # README
 
-Raccoons are the best? I'm not sure.
+Raccoons are all right, I guess.
+
+![raccoon](raccoon-icon.jpg)
