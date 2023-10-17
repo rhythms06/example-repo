@@ -1,7 +1,5 @@
 # README
 
-Hi Sakib! Do you like my readme? It has a raccon in it :D
-
-(To see the raccoon in vscode use the markdown preview...)
+Raccoons are all right, I guess.
 
 ![raccoon](raccoon-icon.jpg)
